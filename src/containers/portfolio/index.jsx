@@ -33,7 +33,7 @@ const portfolioData = [
     id: 2,
     name: "PortFolio",
     image: ImageFour,
-    link: "https://aagam3011.github.io/"
+    link: "https://aagam3011.github.io/about"
   },
   
 ];
